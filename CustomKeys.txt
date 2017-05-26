@@ -1,0 +1,26 @@
+// 移动
+[CmdMove]
+Tip=(|cffffcc00M|r)移动
+Hotkey=V
+
+//农民
+[hpea]
+Hotkey=C
+Tip= (|cffffcc00C|r)生产农民
+
+//女巫变形术
+[Aply]
+Tip= (|cffffcc00X|r)变形术
+Hotkey=X
+
+//女巫隐形术
+[Aivs]
+Tip=(|cffffcc00T|r)隐形术
+Hotkey=T
+
+//巫妖霜冻新星
+[AUfn]
+Tip= (|cffffcc00C|r)霜冻新星 —— [|cffffcc00等级 1|r],(|cffffcc00C|r)霜冻新星 —— [|cffffcc00等级 2|r],(|cffffcc00C|r)霜冻新星 —— [|cffffcc00等级 3|r]
+Hotkey=C
+Researchtip=“学习(|cffffcc00C|r)霜冻新星 —— [|cffffcc00等级 %d|r]”
+Researchhotkey=C
